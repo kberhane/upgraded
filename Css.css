@@ -1,0 +1,80 @@
+body{
+	  background-image: url(101.jpg);
+	  background-size: cover;
+	  opacity: 0.9;
+	  margin-top: 8%;
+}
+.bg-black{
+	background-color: black;
+	font-size: 28px;
+}
+img{
+	width: 100%;
+	height:100%;
+}
+.display-4{
+	padding: 48px;
+
+}
+.font-div{
+ width: 30%;
+}
+@media only screen and (min-width: 990px;){
+	.font-div {
+		padding: 43px 0px!important;
+	}
+}
+.btn{
+	background-color: gray;
+}
+.card {
+	background-color:lightgray;
+}
+.bg-black{
+	background-color: black;
+	/*background-color: rgb(33, 32, 32);*/
+}
+.p-5{
+	background-image: url(666.jpg);
+	background-size: cover;
+/*background-color:rgb(88, 24, 49);*/
+} 
+footer{
+	padding: 40px;
+	background-color: black;
+	/*background-image: url(34.jpg);*/
+	background-size: cover;
+	opacity: 1;
+}
+.facebook{
+	text-decoration: none;
+	color: white;
+}
+.facebook:hover{
+	color: white;
+}
+.google{
+	text-decoration: none;
+	color: white;
+}
+.google:hover{
+	color: white;
+}
+.one{
+	text-decoration: none;
+	color: white;
+}
+.one:hover{
+	color: white;
+}
+.me{
+	background-color: rgb(99, 60, 77 );
+}
+.d-flex {
+	width: 111%;
+}
+fieldset{
+	width: 200%;
+	padding-left:20%;
+
+}
